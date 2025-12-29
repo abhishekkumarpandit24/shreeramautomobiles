@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Background Colors */
+    --color-background: #f7fafc; /* gray-50 */
+    --color-foreground: #1a202c; /* gray-900 */
+    --color-card: #ffffff; /* white */
+    --color-card-foreground: #1a202c; /* gray-900 */
+    --color-popover: #ffffff; /* white */
+    --color-popover-foreground: #1a202c; /* gray-900 */
+
+    /* Primary Colors */
+    --color-primary: #1a365d; /* blue-900 */
+    --color-primary-foreground: #ffffff; /* white */
+
+    /* Secondary Colors */
+    --color-secondary: #2d5a87; /* blue-700 */
+    --color-secondary-foreground: #ffffff; /* white */
+
+    /* Accent Colors */
+    --color-accent: #ff6b35; /* orange-500 */
+    --color-accent-foreground: #ffffff; /* white */
+
+    /* Muted Colors */
+    --color-muted: #edf2f7; /* gray-100 */
+    --color-muted-foreground: #4a5568; /* gray-600 */
+
+    /* Destructive/Error Colors */
+    --color-destructive: #e53e3e; /* red-600 */
+    --color-destructive-foreground: #ffffff; /* white */
+    --color-error: #e53e3e; /* red-600 */
+    --color-error-foreground: #ffffff; /* white */
+
+    /* Success Colors */
+    --color-success: #38a169; /* green-600 */
+    --color-success-foreground: #ffffff; /* white */
+
+    /* Warning Colors */
+    --color-warning: #d69e2e; /* yellow-600 */
+    --color-warning-foreground: #1a202c; /* gray-900 */
+
+    /* Border & Input */
+    --color-border: #e2e8f0; /* gray-300 */
+    --color-input: #e2e8f0; /* gray-300 */
+    --color-ring: #1a365d; /* blue-900 */
+
+    /* Additional Semantic Colors */
+    --color-action: #e74c3c; /* red-500 */
+    --color-action-foreground: #ffffff; /* white */
+    --color-trust: #2e8b57; /* green-700 */
+    --color-trust-foreground: #ffffff; /* white */
+
+    /* Spacing & Layout */
+    --radius: 0.5rem;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+    font-family: "Source Sans Pro", sans-serif;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: "Inter", sans-serif;
+  }
+}
