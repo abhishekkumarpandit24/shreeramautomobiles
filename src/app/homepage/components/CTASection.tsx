@@ -20,7 +20,7 @@ const CTASection = ({ className = "" }: CTASectionProps) => {
 
           {/* Subheading */}
           <p className="text-lg md:text-xl text-primary-foreground/90 mb-8 max-w-2xl mx-auto">
-            Join thousands of satisfied customers who trust Bose Workshop with
+            Join thousands of satisfied customers who trust Shree ram automobiles with
             their vehicles. Book your service today and experience the
             difference.
           </p>

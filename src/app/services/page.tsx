@@ -10,7 +10,7 @@ import SpecializedServices from "./components/SpecializedServices";
 import ServiceCTA from "./components/ServiceCTA";
 
 export const metadata: Metadata = {
-  title: "Services - Bose Workshop",
+  title: "Services - Shree ram automobiles",
   description:
     "Comprehensive automotive services including maintenance, repair, diagnostics, bodywork, and customization. 350+ experts delivering excellence with transparent pricing and 24/7 emergency support.",
 };

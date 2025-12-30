@@ -9,9 +9,9 @@ import ContactFormSection from "./components/ContactFormSection";
 import FAQSection from "./components/FAQSection";
 
 export const metadata: Metadata = {
-  title: "Contact Us - Bose Workshop",
+  title: "Contact Us - Shree ram automobiles",
   description:
-    "Get in touch with Bose Workshop in Noida. Multiple communication channels including phone, email, live chat, and in-person visits. 24/7 emergency service available across NCR.",
+    "Get in touch with Shree ram automobiles in Noida. Multiple communication channels including phone, email, live chat, and in-person visits. 24/7 emergency service available across NCR.",
 };
 
 export default function ContactPage() {

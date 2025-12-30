@@ -16,7 +16,7 @@ const ContactHero = ({ className = '' }: ContactHeroProps) => {
             <Icon name="MapPinIcon" size={32} variant="outline" />
           </div>
           <h1 className="text-4xl md:text-5xl font-heading font-bold mb-4">
-            Get in Touch with Bose Workshop
+            Get in Touch with Shree ram automobiles
           </h1>
           <p className="text-lg md:text-xl text-primary-foreground/90 mb-8">
             Your trusted automotive partner in Noida. We&apos;re here to help with all your vehicle

@@ -64,7 +64,7 @@ const WhyChooseUs = ({ className = '' }: WhyChooseUsProps) => {
         {/* Header */}
         <div className="text-center mb-12">
           <h2 className="text-3xl md:text-4xl font-heading font-bold text-foreground mb-4">
-            Why Choose Bose Workshop?
+            Why Choose Shree ram automobiles?
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
             Experience the difference that comes with ₹102 crore business excellence and 350+

@@ -36,7 +36,7 @@ const LocationMap = ({ className = '' }: LocationMapProps) => {
               width="100%"
               height="100%"
               loading="lazy"
-              title="Bose Workshop Location - C-12/5 Sector-85 Noida"
+              title="Shree ram automobiles Location - C-12/5 Sector-85 Noida"
               referrerPolicy="no-referrer-when-downgrade"
               src={`https://www.google.com/maps?q=${latitude},${longitude}&z=15&output=embed`}
               className="border-0 min-h-96"
@@ -54,7 +54,7 @@ const LocationMap = ({ className = '' }: LocationMapProps) => {
                   <h3 className="text-xl font-heading font-semibold text-foreground mb-2">
                     Our Address
                   </h3>
-                  <p className="text-foreground mb-1">Bose Workshop</p>
+                  <p className="text-foreground mb-1">Shree ram automobiles</p>
                   <p className="text-foreground mb-1">C-12/5, Sector-85</p>
                   <p className="text-foreground mb-4">Noida, Uttar Pradesh 201301</p>
                   <a

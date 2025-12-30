@@ -17,7 +17,7 @@ const ServiceCTA = ({ className = "" }: ServiceCTAProps) => {
             Ready to Experience Excellence?
           </h2>
           <p className="text-lg text-primary-foreground/90 mb-8">
-            Join thousands of satisfied customers who trust Bose Workshop for
+            Join thousands of satisfied customers who trust Shree ram automobiles for
             their automotive needs. Book your service today and experience the
             difference that 350+ experts make.
           </p>

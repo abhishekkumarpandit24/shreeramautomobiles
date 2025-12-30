@@ -17,7 +17,7 @@ const HeroSection = () => {
             </h1>
             <p className="text-lg text-muted-foreground leading-relaxed">
               From a traditional auto repair shop to a comprehensive automotive
-              ecosystem, Bose Workshop has evolved into a ₹102 crore enterprise
+              ecosystem, Shree ram automobiles has evolved into a ₹102 crore enterprise
               with 350+ skilled professionals. Our journey represents the
               perfect blend of cutting-edge technology and decades of mechanical
               expertise.

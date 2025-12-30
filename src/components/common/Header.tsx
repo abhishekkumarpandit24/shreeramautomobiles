@@ -55,7 +55,7 @@ const Header = ({ className = '' }: HeaderProps) => {
                 <path d="M16 16L4 10" stroke="currentColor" strokeWidth="2" />
               </svg>
             </div>
-            <span className="text-xl font-heading font-bold text-primary">Bose Workshop</span>
+            <span className="text-xl font-heading font-bold text-primary">Shree ram automobiles</span>
           </Link>
 
           {/* Desktop Navigation */}

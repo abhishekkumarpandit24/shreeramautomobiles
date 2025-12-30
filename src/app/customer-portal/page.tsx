@@ -4,7 +4,7 @@ import Footer from "@/components/common/Footer";
 import CustomerPortalInteractive from "./components/CustomerPortalInteractive";
 
 export const metadata: Metadata = {
-  title: "Customer Portal - Bose Workshop",
+  title: "Customer Portal - Shree ram automobiles",
   description:
     "Access your service history, track live service progress, manage maintenance schedules, and redeem loyalty rewards. Your complete automotive service management hub.",
 };

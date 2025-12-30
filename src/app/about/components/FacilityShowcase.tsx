@@ -180,7 +180,7 @@ const FacilityShowcase = () => {
                   width="100%"
                   height="100%"
                   loading="lazy"
-                  title="Bose Workshop Location"
+                  title="Shree ram automobiles Location"
                   referrerPolicy="no-referrer-when-downgrade"
                   src="https://www.google.com/maps?q=28.5355,77.3910&z=14&output=embed"
                   className="border-0"

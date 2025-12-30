@@ -84,7 +84,7 @@ const Footer = ({ className = "" }: FooterProps) => {
                 </svg>
               </div>
               <span className="text-xl font-heading font-bold">
-                Bose Workshop
+                Shree ram automobiles
               </span>
             </div>
             <p className="text-sm text-primary-foreground/80 mb-4">
@@ -186,7 +186,7 @@ const Footer = ({ className = "" }: FooterProps) => {
         <div className="border-t border-primary-foreground/20 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-sm text-primary-foreground/80">
-              © {currentYear} Bose Workshop. All rights reserved.
+              © {currentYear} Shree ram automobiles. All rights reserved.
             </p>
             <div className="flex space-x-6">
               <Link

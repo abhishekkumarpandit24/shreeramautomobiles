@@ -8,7 +8,7 @@ const CTASection = () => {
       <div className="container mx-auto px-4">
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-3xl lg:text-4xl font-heading font-bold mb-6">
-            Experience the Bose Workshop Difference
+            Experience the Shree ram automobiles Difference
           </h2>
           <p className="text-lg text-primary-foreground/90 mb-8 max-w-2xl mx-auto">
             Join thousands of satisfied customers who trust us with their

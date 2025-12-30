@@ -9,9 +9,9 @@ import CertificationsPartnerships from "./components/CertificationsPartnerships"
 import CTASection from "./components/CTASection";
 
 export const metadata: Metadata = {
-  title: "About Us - Bose Workshop",
+  title: "About Us - Shree ram automobiles",
   description:
-    "Discover Bose Workshop's journey from traditional auto repair to a ₹102 crore automotive ecosystem with 350+ professionals. Explore our state-of-the-art facility in Sector-85 Noida, meet our expert team, and learn about our industry certifications and strategic partnerships.",
+    "Discover Shree ram automobiles's journey from traditional auto repair to a ₹102 crore automotive ecosystem with 350+ professionals. Explore our state-of-the-art facility in Sector-85 Noida, meet our expert team, and learn about our industry certifications and strategic partnerships.",
 };
 
 export default function AboutPage() {

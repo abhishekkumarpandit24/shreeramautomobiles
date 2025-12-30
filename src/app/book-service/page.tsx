@@ -4,9 +4,9 @@ import Footer from "@/components/common/Footer";
 import BookServiceInteractive from "./components/BookServiceInteractive";
 
 export const metadata: Metadata = {
-  title: "Book Service - Bose Workshop",
+  title: "Book Service - Shree ram automobiles",
   description:
-    "Schedule your vehicle service appointment with Bose Workshop. Choose from our comprehensive service packages, select your preferred date and time, and enjoy hassle-free automotive care with real-time tracking and transparent pricing.",
+    "Schedule your vehicle service appointment with Shree ram automobiles. Choose from our comprehensive service packages, select your preferred date and time, and enjoy hassle-free automotive care with real-time tracking and transparent pricing.",
 };
 
 export default function BookServicePage() {

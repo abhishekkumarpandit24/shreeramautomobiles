@@ -10,7 +10,7 @@ import QuickBooking from "./components/QuickBooking";
 import CTASection from "./components/CTASection";
 
 export const metadata: Metadata = {
-  title: "Homepage - Bose Workshop",
+  title: "Homepage - Shree ram automobiles",
   description:
     "Noida's Premier Automotive Destination. ₹102 crore business built on trust with 350+ automotive experts delivering world-class service. Book your service today.",
 };
