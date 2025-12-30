@@ -167,7 +167,7 @@ const Footer = ({ className = "" }: FooterProps) => {
               </div>
               <div className="flex items-center space-x-2 text-sm">
                 <Icon name="EnvelopeIcon" size={16} variant="outline" />
-                <span>support@boseworkshop.com</span>
+                <span>support@shreeramautomobiles.com</span>
               </div>
               <div className="flex items-start space-x-2 text-sm">
                 <Icon
